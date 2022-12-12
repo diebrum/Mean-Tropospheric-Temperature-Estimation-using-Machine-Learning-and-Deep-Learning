@@ -5,11 +5,9 @@ submission to the JSTARSS journal. Follow the instructions on how to use the fil
 
 Folders:
 
-NOTEBOOKS -> Jupyter notebook with the Python scripts used to generate the models
+NOTEBOOKS -> Jupyter notebook with the Python scripts used to generate the models.
 
-DATA -> The data used to train and test the models
-
-MODELS -> The model objects that must be loaded (.h5 files for keras models and .joblib for scikit learn models)
+DATA AND MODELS -> The data used to train and test the models. The model objects that must be loaded (.h5 files for keras models and .joblib for scikit learn models).
 
 The data and the models are separated by radiosonde station code.
 
