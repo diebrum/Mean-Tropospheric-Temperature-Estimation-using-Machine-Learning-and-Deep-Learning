@@ -11,6 +11,8 @@ DATA -> The data used to train and test the models
 
 MODELS -> The model objects that must be loaded (.h5 files for keras models and .joblib for scikit learn models)
 
+The data and the models are separated by radiosonde station code.
+
 Read carefully the .ipy file, it provides the needed information to reproduce or improve this study.
 
 
